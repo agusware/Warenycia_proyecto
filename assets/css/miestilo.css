@@ -1,0 +1,26 @@
+ *{
+	margin:0;
+}
+.navbar{
+	box-shadow: 2px 2px 5px #000;
+}
+
+.titulo{
+	text-align:center;
+	background-color: BlueViolet;
+	margin: 20px;
+}
+.parrafo{
+	text-align:center;
+	background-color: crimson;
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-bottom: 60px;
+	padding-right: 300px;
+}
+footer{
+	text-align:center;
+	background-color: GoldenRod;
+	padding: 10px 20px 30px 40px;
+	margin: 10px 200px;
+}
